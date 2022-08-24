@@ -1,0 +1,15 @@
+C:\Users\Jason\source\repos\FA2_PRG522\FA2_PRG522\bin\Debug\net6.0\FA2_PRG522.exe
+C:\Users\Jason\source\repos\FA2_PRG522\FA2_PRG522\bin\Debug\net6.0\FA2_PRG522.deps.json
+C:\Users\Jason\source\repos\FA2_PRG522\FA2_PRG522\bin\Debug\net6.0\FA2_PRG522.runtimeconfig.json
+C:\Users\Jason\source\repos\FA2_PRG522\FA2_PRG522\bin\Debug\net6.0\FA2_PRG522.dll
+C:\Users\Jason\source\repos\FA2_PRG522\FA2_PRG522\bin\Debug\net6.0\FA2_PRG522.pdb
+C:\Users\Jason\source\repos\FA2_PRG522\FA2_PRG522\obj\Debug\net6.0\FA2_PRG522.csproj.AssemblyReference.cache
+C:\Users\Jason\source\repos\FA2_PRG522\FA2_PRG522\obj\Debug\net6.0\FA2_PRG522.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jason\source\repos\FA2_PRG522\FA2_PRG522\obj\Debug\net6.0\FA2_PRG522.AssemblyInfoInputs.cache
+C:\Users\Jason\source\repos\FA2_PRG522\FA2_PRG522\obj\Debug\net6.0\FA2_PRG522.AssemblyInfo.cs
+C:\Users\Jason\source\repos\FA2_PRG522\FA2_PRG522\obj\Debug\net6.0\FA2_PRG522.csproj.CoreCompileInputs.cache
+C:\Users\Jason\source\repos\FA2_PRG522\FA2_PRG522\obj\Debug\net6.0\FA2_PRG522.dll
+C:\Users\Jason\source\repos\FA2_PRG522\FA2_PRG522\obj\Debug\net6.0\refint\FA2_PRG522.dll
+C:\Users\Jason\source\repos\FA2_PRG522\FA2_PRG522\obj\Debug\net6.0\FA2_PRG522.pdb
+C:\Users\Jason\source\repos\FA2_PRG522\FA2_PRG522\obj\Debug\net6.0\FA2_PRG522.genruntimeconfig.cache
+C:\Users\Jason\source\repos\FA2_PRG522\FA2_PRG522\obj\Debug\net6.0\ref\FA2_PRG522.dll
