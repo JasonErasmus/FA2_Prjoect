@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Jason\\Desktop\\CTU 1\\2nd year\\FA\\DevOps\\FA2\\The code\\FA2_PRG522\\FA2_PRG522\\FA2_PRG522.csproj": {}
+    "C:\\Users\\Jason\\Desktop\\CTU 1\\2nd year\\FA\\DevOps\\FA2\\Pull\\FA2_PRG522\\FA2_PRG522\\FA2_PRG522.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Jason\\Desktop\\CTU 1\\2nd year\\FA\\DevOps\\FA2\\The code\\FA2_PRG522\\FA2_PRG522\\FA2_PRG522.csproj": {
+    "C:\\Users\\Jason\\Desktop\\CTU 1\\2nd year\\FA\\DevOps\\FA2\\Pull\\FA2_PRG522\\FA2_PRG522\\FA2_PRG522.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Jason\\Desktop\\CTU 1\\2nd year\\FA\\DevOps\\FA2\\The code\\FA2_PRG522\\FA2_PRG522\\FA2_PRG522.csproj",
+        "projectUniqueName": "C:\\Users\\Jason\\Desktop\\CTU 1\\2nd year\\FA\\DevOps\\FA2\\Pull\\FA2_PRG522\\FA2_PRG522\\FA2_PRG522.csproj",
         "projectName": "FA2_PRG522",
-        "projectPath": "C:\\Users\\Jason\\Desktop\\CTU 1\\2nd year\\FA\\DevOps\\FA2\\The code\\FA2_PRG522\\FA2_PRG522\\FA2_PRG522.csproj",
+        "projectPath": "C:\\Users\\Jason\\Desktop\\CTU 1\\2nd year\\FA\\DevOps\\FA2\\Pull\\FA2_PRG522\\FA2_PRG522\\FA2_PRG522.csproj",
         "packagesPath": "C:\\Users\\Jason\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Jason\\Desktop\\CTU 1\\2nd year\\FA\\DevOps\\FA2\\The code\\FA2_PRG522\\FA2_PRG522\\obj\\",
+        "outputPath": "C:\\Users\\Jason\\Desktop\\CTU 1\\2nd year\\FA\\DevOps\\FA2\\Pull\\FA2_PRG522\\FA2_PRG522\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Jason\\AppData\\Roaming\\NuGet\\NuGet.Config",
